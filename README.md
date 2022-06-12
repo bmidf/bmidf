@@ -1,5 +1,4 @@
 ### Hi there 👋, My name is Becca
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Computer Science student.
 
