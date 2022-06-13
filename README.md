@@ -1,9 +1,10 @@
 ### Hi there 👋, My name is Becca
 
 I'm Computer Science student.
-I have knowledge of CSS, HTML, JS.
-Experience with React Native.
-Strong communication skills both verbally and written in English. Collaboration and team working skills.
+<p>
+I have knowledge of CSS, HTML, JS.</p><p>
+Experience with React Native.</p><p>
+Strong communication skills both verbally and written in English. Collaboration and team working skills.</p>
 
 - 📫 How to reach me? **55makharadze@gmail.com**
 
