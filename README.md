@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Becca
 
-I'm Computer Science student.
+Computer Science student.
 <p>
 I have knowledge of CSS, HTML, JS.</p><p>
 Experience with React Native.</p><p>
