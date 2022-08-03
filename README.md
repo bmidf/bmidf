@@ -2,8 +2,6 @@
 
 Computer Science student.
 <p>
-I have knowledge of CSS, HTML, JS.</p><p>
-Experience with React Native.</p><p>
 Strong communication skills both verbally and written in English. Collaboration and team working skills.</p>
 
 - 📫 How to reach me? **55makharadze@gmail.com**
