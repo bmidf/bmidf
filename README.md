@@ -1,8 +1,6 @@
 ### Hi there 👋, My name is Becca
 
 Computer Science student.
-<p>
-Strong communication skills both verbally and written in English. Collaboration and team working skills.</p>
 
 - 📫 How to reach me? **55makharadze@gmail.com**
 
@@ -36,4 +34,3 @@ Strong communication skills both verbally and written in English. Collaboration 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmidf)](https://github.com/anuraghazra/github-readme-stats)
 
- ![Profile views](https://gpvc.arturio.dev/bmidf) 
