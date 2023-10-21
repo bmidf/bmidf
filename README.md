@@ -1,4 +1,4 @@
-![image](https://github.com/bmidf/bmidf/assets/81828475/45cc5c34-9cb4-4b2e-8c81-7e88db516617)### Hi there 👋, My name is Becca
+### Hi there 👋, My name is Becca
 
 Computer Science student.
 Working as a Test Automation Engineer at Solvd, Inc.
