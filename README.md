@@ -25,7 +25,7 @@ Test Automation Engineer with experience in Front-End development.
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 <a href="https://www.pytest.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="pytest" width="40" height="40"/> </a> 
-<a href="https://www.appium.io" target="_blank" rel="noreferrer"> <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" alt="appium" width="40" height="40"/> </a> 
+<a href="https://www.appium.io" target="_blank" rel="noreferrer"> <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" alt="appium" width="100" height="40"/> </a> 
 <a href="https://webdriverio.com/" target="_blank" rel="noreferrer"> <img src="https://webdriver.io/assets/images/robot-3677788dd63849c56aa5cb3f332b12d5.svg" alt="webdriverio" width="40" height="40"/> </a> 
 <a href="https://carina-core.io/" target="_blank" rel="noreferrer"> <img src="https://static.tildacdn.com/tild3061-3632-4338-a434-333735383062/Frame_282_2.png" alt="carina" width="100" height="40"/> </a> 
 <h3 align="left">Tools</h3>
