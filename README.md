@@ -1,14 +1,14 @@
-### Hi there 👋, My name is Becca
+### Hi there 👋, My name is Beka
 
 Computer Science student.
-Working as a Test Automation Engineer at Solvd, Inc.
-<a href="https://www.solvd.com" target="_blank" rel="noreferrer"> <img src="https://www.solvd.com/favicon.png" alt="solvd" width="40" height="40"/> </a> 
+Test Automation Engineer with experience in Front-End development.
+<a href="https://www.solvd.com" target="_blank" rel="noreferrer">
 - 📫 How to reach me? **55makharadze@gmail.com**
 
 ## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/bmidf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bmidf" height="30" width="40" /></a>
-  <a  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"  alt="BM#8396" height="30" width="40" /> bmye </a>
+<a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"  alt="bmye" height="30" width="40" /> bmye </a>
 </p>
 
 <h3 align="left">Programming Languages</h3>
@@ -25,8 +25,8 @@ Working as a Test Automation Engineer at Solvd, Inc.
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 <a href="https://www.pytest.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="pytest" width="40" height="40"/> </a> 
-<a href="https://www.appium.io" target="_blank" rel="noreferrer"> <img src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/appium.png" alt="appium" width="40" height="40"/> </a> 
-<a href="https://webdriverio.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/95f9060552c490befea503dea9b87aa13277c0d4ff0aeb18a870f52df665fed4/68747470733a2f2f7765626472697665722e696f2f6173736574732f696d616765732f726f626f742d33363737373838646436333834396335366161356362336633333262313264352e737667" alt="webdriverio" width="40" height="40"/> </a> 
+<a href="https://www.appium.io" target="_blank" rel="noreferrer"> <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" alt="appium" width="40" height="40"/> </a> 
+<a href="https://webdriverio.com/" target="_blank" rel="noreferrer"> <img src="https://webdriver.io/assets/images/robot-3677788dd63849c56aa5cb3f332b12d5.svg" alt="webdriverio" width="40" height="40"/> </a> 
 <a href="https://carina-core.io/" target="_blank" rel="noreferrer"> <img src="https://static.tildacdn.com/tild3061-3632-4338-a434-333735383062/Frame_282_2.png" alt="carina" width="100" height="40"/> </a> 
 <h3 align="left">Tools</h3>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
